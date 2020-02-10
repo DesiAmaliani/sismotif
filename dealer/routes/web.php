@@ -13,7 +13,7 @@ Route::get('/hapusProduk/{id_produk}', 'data@hapusProduk');
 
 //
 
-Route::get('/produk', 'index@home');
+Route::get('/produk1', 'index@home');
 Route::get('/home', 'index@awal');
 Route::get('/dealer', 'index@dealer');
 Route::get('/detail_produk', 'index@detail_produk');

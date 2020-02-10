@@ -1,7 +1,7 @@
 <html lang="en">
   <head>
 
-    <title>......</title>
+    <title>Sistem Informasi Otomatif Motor (SIMOTIF)</title>
 
     <meta name="csrf-token" content="{{ csrf_token() }}">
     <link rel="icon" href="AAA.jpeg">
@@ -35,7 +35,7 @@
           <li>
               <ul class="collapsible collapsible-accordion">
 
-              <p align ="center"> <b> ................. </b></p>
+              <p align ="center"> <b> Sistem Informasi Otomatif Motor (SIMOTIF)</b></p>
               <li><a href="{{ url('/produk') }}" class="collapsible-header waves-effect"><i class="fa fa-cubes"></i> Product</a></li>
                 <li><a href="{{ url('/notifikasi') }}" class="collapsible-header waves-effect arrow-r"><i class="fa fa-cubes"></i> Notifikasi</a>
                             <li><a href="{{ url('/rr') }}" class="collapsible-header waves-effect arrow-r"><i class="fa fa-cubes"></i> Review dan Rating </a>
@@ -64,13 +64,13 @@
               <a href="#" data-activates="slide-out" class="button-collapse black-text"><i class="fa fa-bars"></i></a>
           </div>
           <div class="breadcrumb-dn mr-auto">
-              <p>........</p>
+              <p>Sistem Informasi Otomatif Motor (SIMOTIF)</p>
           </div>
           <ul class="nav navbar-nav nav-flex-icons ml-auto">
               <li class="nav-item dropdown">
         <a class="nav-link dropdown-toggle waves-effect" id="navbarDropdownMenuLink" data-toggle="dropdown"
           aria-haspopup="true" aria-expanded="false">
-          <h4>admin</h4>
+          <h4>Admin</h4>
           <span class="badge red"></span> <i class="fas fa-bell"></i>
         </a>
         <div class="dropdown-menu dropdown-primary" aria-labelledby="navbarDropdownMenuLink">

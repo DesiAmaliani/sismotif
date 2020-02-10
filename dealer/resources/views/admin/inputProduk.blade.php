@@ -1,7 +1,7 @@
 <html lang="en">
   <head>
 
-    <title>.......</title>
+    <title>Sistem Informasi Otomatif Motor (SIMOTIF)</title>
 
     <meta name="csrf-token" content="{{ csrf_token() }}">
     <link rel="icon" href="AAA.jpeg">
@@ -64,7 +64,7 @@
               <a href="#" data-activates="slide-out" class="button-collapse black-text"><i class="fa fa-bars"></i></a>
           </div>
           <div class="breadcrumb-dn mr-auto">
-              <p>........</p>
+              <p>Sistem Informasi Otomatif Motor (SIMOTIF)</p>
           </div>
           <ul class="nav navbar-nav nav-flex-icons ml-auto">
               <li class="nav-item dropdown">

@@ -1,7 +1,7 @@
 {{-- <html lang="en">
   <head>
 
-    <title>Sants App</title>
+    <title>Sistem informasi otomatif motor (SIMOTIF)</title>
 
     <!-- Bootstrap core CSS -->
     <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
@@ -87,7 +87,7 @@
 <html lang="en">
   <head>
 
-    <title>.......</title>
+    <title>Sistem informasi otomatif motor (SIMOTIF)</title>
     <link rel="icon" href="AAA.jpeg">
     <link rel="stylesheet" type="text/css" href="{{url('')}}/admin/css/bootstrap.min.css">
     <link rel="stylesheet" type="text/css" href="{{url('')}}/admin/css/mdb.min.css">
@@ -146,13 +146,13 @@
                 <a href="#" data-activates="slide-out" class="button-collapse black-text"><i class="fa fa-bars"></i></a>
             </div>
             <div class="breadcrumb-dn mr-auto">
-                <p>.......</p>
+                <p>Sistem Informasi Otomatif Motor (SIMOTIF) </p>
             </div>
             <ul class="nav navbar-nav nav-flex-icons ml-auto">
                 <li class="nav-item">
           <a class="nav-link waves-effect" id="navbarDropdownMenuLink" data-toggle="dropdown"
             aria-haspopup="true" aria-expanded="false">
-            <h4>admin</h4>
+            <h4>Admin</h4>
           </a>
         </li>
                 <li class="nav-item">
@@ -183,11 +183,11 @@
                               <!--Card content-->
                               <div class="card-body card-body-cascade text-center wow fadeIn" data-wow-delay="0.2s">
                                   <!--Title-->
-                                  <h4>.........</h4>
-                                <img src="a.jpeg" width="200px"></img>
-                              <img src="b.jpeg" width="200px"></img>
-                            <img src="d.jpeg" width="200px"></img>
-                          <img src="c.jpeg" width="200px"></img>
+                                  <h4>Selamat Datang Di Aplikasi Sistem Informasi Otomatif Motor (SIMOTIF) </h4>
+                                <img src="{{url('user/images/8.png')}}" width="200px"></img>
+                              <img src="{{url('user/images/4.png')}}" width="200px"></img>
+                            <img src="{{url('user/images/s1.jpg')}}" width="200px"></img>
+                          <img src="{{url('user/images/s6.jpg')}}" width="200px"></img>
                                          </div>
                               <!--/.Card content-->
 

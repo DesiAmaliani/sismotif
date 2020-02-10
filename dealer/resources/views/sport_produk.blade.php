@@ -66,7 +66,7 @@
                     <!-- BEGIN NAV -->
                     <ul id="nav" class="hidden-xs">
                       <li class="active"> <a class="level-top" href="/home"><span>Home</span></a></li>
-                      <li class="mega-menu hidden-sm"> <a class="level-top" href="/produk"><span>Product‎</span></a> </li>
+                      <li class="mega-menu hidden-sm"> <a class="level-top" href="/produk1"><span>Product‎</span></a> </li>
                       <li class="mega-menu hidden-sm"> <a class="level-top" href="/dealer"><span>Dealer</span></a> </li>
                     </ul>
                     <!--nav--> 
