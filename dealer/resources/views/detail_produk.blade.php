@@ -206,7 +206,7 @@
                                 <div style="width:100%" class="rating"></div>
                               </div>
                             </div>
-                            
+                            <p class="meta"> <strong>John Doe</strong> </p>
                             <div class="description">
                               <p>Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Nulla quis lorem ut libero malesuada feugiat. Proin eget tortor risus. Donec rutrum congue leo eget malesuada. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
                               <p>Donec sollicitudin molestie malesuada. Vivamus suscipit tortor eget felis porttitor volutpat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quis lorem ut libero malesuada feugiat. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus.</p>
@@ -226,9 +226,13 @@
                             <p><span id="email-notes">Your rating</span></p>
                             <p class="stars"> <span> <a class="star-1" href="#">1</a> <a class="star-2" href="#">2</a> <a class="star-3" href="#">3</a> <a class="star-4" href="#">4</a> <a class="star-5" href="#">5</a> </span> </p>
                           </div>
+                          <p class="comment-form-author">
+                             <p><span id="email-notes">Nama</span></p>
+                            <input id="author" name="nama" type="text" value="" size="30" required>
+                          </p>
                           <p class="comment-form-comment">
                             <p><span id="email-notes">Your review </span><span class="required">*</span></p>
-                            <textarea id="comment" name="comment" cols="45" rows="8" required></textarea>
+                            <textarea id="comment" name="review" cols="45" rows="8" required></textarea>
                           </p>
                           <p class="form-submit">
                             <input name="submit" type="submit" id="submit" class="submit" value="Submit">

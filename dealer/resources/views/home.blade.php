@@ -122,6 +122,20 @@
                       </div>
                     </div>
                   </li>
+                  <li data-transition='random' data-slotamount='7' data-masterspeed='1000' data-thumb='images/r.jpg'><img src="{{url('user/images/r.jpg')}}"  data-bgfit='cover' data-bgrepeat='no-repeat' alt="banner"/>
+                    <div class="container">
+                      <div class="content_slideshow">
+                        <div class="row">
+                          <div>
+                            <div class="info">
+                              <div class='tp-caption ExtraLargeTitle sft  tp-resizeme ' data-endspeed='500' data-speed='500' data-start='1100' data-easing='Linear.easeNone' data-splitin='none' data-splitout='none' data-elementdelay='0.1' data-endelementdelay='0.1' style='z-index:2; white-space:nowrap;'><span>Top Brands 2020</span> </div>
+                              <div class='tp-caption LargeTitle sfl  tp-resizeme ' data-endspeed='500' data-speed='500' data-start='1300' data-easing='Linear.easeNone' data-splitin='none' data-splitout='none' data-elementdelay='0.1' data-endelementdelay='0.1' style='z-index:3; white-space:nowrap;'><span style="font-weight:normal; display:block">Modern-classic</span> Style </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </li>
                 </ul>
                 <div class="tp-bannertimer"></div>
               </div>
